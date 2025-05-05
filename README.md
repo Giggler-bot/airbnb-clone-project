@@ -23,16 +23,31 @@ StayEase is a full-stack web application inspired by Airbnb. The platform allows
 
 ## 🧑‍💼 Team & Roles
 
-  Project Roles and Responsibilities                                 |
-|------------------|------------------------------------------------------------|
-| Project Manager  | Timeline management, task coordination                     |
-| Frontend Dev     | UI components, responsive design, React implementation     |
-| Backend Dev      | API development, database management, business logic       |
-| UI/UX Designer   | Wireframes, mockups, design system                         |
-| QA / Tester      | Writing test cases, bug tracking and reporting             |
-| DevOps Engineer  | CI/CD, deployment, environment setup                       |
-| Product Owner    | Requirements definition, feature prioritization            |
-| Scrum Master     | Agile practices, blocker removal, team facilitation        |
+## Project Roles and Responsibilities
+
+In this project, various roles are defined to ensure smooth collaboration and effective project delivery. Each team member will be responsible for specific tasks and will work together towards the common goal of creating a functional and user-friendly Airbnb clone. Below are the roles and their key responsibilities:
+
+### 1. **Project Manager**
+   - **Responsibilities**:
+     - Oversees the project timeline and ensures the project is on track.
+     - Coordinates between different teams (frontend, backend, design, etc.).
+### 2. **Frontend Developers**
+   - **Responsibilities**:
+     - Implements the user interface (UI) based on the design specifications.
+     - Makes sure that the application is usable and visually appealing to end users.
+### 3. **Backend Developers**
+   - **Responsibilities**:
+     - Builds the backend APIs required for the application (e.g., to handle user authentication, property listings, bookings).
+     - Designs and manages the database to store user data, properties, and bookings.
+### 4. **Designers**
+   - **Responsibilities**:
+     - Creates UI/UX designs using tools like Figma, ensuring an intuitive user experience.
+### 5. **QA/Testers**
+   - **Responsibilities**:
+     - Writes test cases and performs manual testing on different parts of the application.
+### 6. **DevOps Engineers**
+   - **Responsibilities**:
+     - Manages the deployment of the project to production environments (e.g., Heroku, AWS).
 
 ## 🖼️ UI/UX Design Goals
 - Intuitive booking flow with minimal friction
