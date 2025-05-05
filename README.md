@@ -1,4 +1,4 @@
-# airbnb-clone-project-1
+# airbnb-clone-project
 # StayEase - Airbnb Clone Project
 
 ## 📌 Project Overview
