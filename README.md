@@ -49,7 +49,7 @@ In this project, various roles are defined to ensure smooth collaboration and ef
    - **Responsibilities**:
      - Manages the deployment of the project to production environments (e.g., Heroku, AWS).
 
-## 🖼️ UI/UX Design Goals
+## UI Component Patterns
 - Intuitive booking flow with minimal friction
 - Visually consistent and responsive across devices
 - Clean typography and color schemes
