@@ -25,35 +25,43 @@ StayEase is a full-stack web application inspired by Airbnb. The platform allows
 
 ## Project Roles and Responsibilities
 
-In this project, various roles are defined to ensure smooth collaboration and effective project delivery. Each team member will be responsible for specific tasks and will work together towards the common goal of creating a functional and user-friendly Airbnb clone. Below are the roles and their key responsibilities:
+Clear definition of team roles is essential for collaboration and the successful execution of the Airbnb Clone Project. Below is a list of key roles and their responsibilities:
 
-### 1. **Project Manager**
-   - **Responsibilities**:
-     - Oversees the project timeline and ensures the project is on track.
-     - Coordinates between different teams (frontend, backend, design, etc.).
-### 2. **Frontend Developers**
-   - **Responsibilities**:
-     - Implements the user interface (UI) based on the design specifications.
-     - Makes sure that the application is usable and visually appealing to end users.
-### 3. **Backend Developers**
-   - **Responsibilities**:
-     - Builds the backend APIs required for the application (e.g., to handle user authentication, property listings, bookings).
-     - Designs and manages the database to store user data, properties, and bookings.
-### 4. **Designers**
-   - **Responsibilities**:
-     - Creates UI/UX designs using tools like Figma, ensuring an intuitive user experience.
-### 5. **QA/Testers**
-   - **Responsibilities**:
-     - Writes test cases and performs manual testing on different parts of the application.
-### 6. **DevOps Engineers**
-   - **Responsibilities**:
-     - Manages the deployment of the project to production environments (e.g., Heroku, AWS).
+### 1. Project Manager
+- Oversees the planning, execution, and delivery of the project.
+- Coordinates communication between team members and stakeholders.
+- 
+### 2. Frontend Developers
+- Implement the user interface using technologies like HTML, CSS, and JavaScript (e.g., React).
+- Ensure a responsive and accessible design across devices.
 
-## UI Component Patterns
-- Intuitive booking flow with minimal friction
-- Visually consistent and responsive across devices
-- Clean typography and color schemes
-- Fast-loading and accessible UI (WCAG standards)
+### 3. Backend Developers
+- Design and implement server-side logic, databases, and APIs.
+- Ensure secure data handling and user authentication.
+
+### 4. Designers (UI/UX)
+- Create wireframes, mockups, and prototypes to define the visual layout.
+- Focus on usability, accessibility, and intuitive interaction.
+
+### 5. QA/Testers
+- Develop and execute test cases to validate features and functionalities.
+- Perform manual and automated testing to identify bugs.
+
+### 6. DevOps Engineers
+- Set up and maintain CI/CD pipelines for automated builds and deployments.
+- Monitor infrastructure, logs, and system performance.
+
+### 7. Product Owner
+- Represents the voice of the customer and stakeholders.
+- Defines and prioritizes features in the product backlog.
+
+### 8. Scrum Master
+- Facilitates agile ceremonies such as daily stand-ups, sprint planning, and retrospectives.
+- Removes impediments to ensure team productivity.
+
+---
+
+Each of these roles plays a vital part in delivering a robust, user-friendly, and scalable Airbnb clone.
 
 ## 🌈 Design Specifications
 
